@@ -3,9 +3,9 @@
 ;Date: 11.05.2022
 ;MC: Attiny13AU
 ;Options: Reset DISABLED
-	  CPU clock frequency 4.8 MHz (internal RC-oscillator)
-	  Fuse bytes:  LOW = 0x79
-	  	      HIGH = 0xFE
+;	  CPU clock frequency 4.8 MHz (internal RC-oscillator)
+;	  Fuse bytes:  LOW = 0x79
+;	  	      HIGH = 0xFE
 ;********************************************************************
 ;Buttons: 4: Power, Color, Brighter, Darker
 ;Power: On-Off LEDs
